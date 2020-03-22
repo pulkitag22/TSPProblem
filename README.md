@@ -1,4 +1,4 @@
-# UnidirectionalTSPProblem
+# Unidirectional TSP Problem
 Problems that require minimum paths through some domain appear in many different areas of computer science. For example, one of the constraints in VLSI routing problems is minimizing wire length. 
 
 The Traveling Salesperson Problem (TSP) — finding whether all the cities in a salesperson’s route can be visited exactly once with a specified limit on travel time — is one of the canonical examples of an NP-complete problem; solutions appear to require an inordinate amount of time to generate, but are simple to check. This problem deals with finding a minimal path through a grid of points while traveling only from left to right. Given an m×n matrix of integers, you are to write a program that computes a path of minimal weight. 
